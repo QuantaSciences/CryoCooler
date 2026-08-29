@@ -19,4 +19,4 @@ Blog (Construction Detail): https://benkrasnow.blogspot.com/2008/08/diy-liquid-n
 
 
 ## Nitrogen
-- [Cryogenic treatment of drill bits: tested 2X lifetime and microstructure analysis](
+- [Cryogenic treatment of drill bits: tested 2X lifetime and microstructure analysis](https://youtu.be/hAxi5YXTjEk)
