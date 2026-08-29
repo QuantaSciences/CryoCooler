@@ -6,3 +6,6 @@ https://m.youtube.com/@AppliedScience/search?query=Cryocooler
 Interview: [DIY Liquid Nitrogen for Less Than $500 - Ben Krasnow](https://youtu.be/14B8LynojI4) by: Jeri Ellsworth
 
 Blog (Construction Detail): https://benkrasnow.blogspot.com/2008/08/diy-liquid-nitrogen-generator.html
+
+### Comment:
+- https://www.youtube.com/watch?v=7PWESWqhD8s&lc=UggTRtdSWeU0_XgCoAEC
