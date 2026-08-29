@@ -16,8 +16,10 @@ Blog (Construction Detail): https://benkrasnow.blogspot.com/2008/08/diy-liquid-n
 [Argon beer, an alternative to the usual CO2 carbonation](https://youtu.be/5v91dLMphls)
 
 ## Oxygen
-[Firing up a charcoal BBQ with liquid oxygen](
+[Firing up a charcoal BBQ with liquid oxygen](https://youtu.be/1bjvj5FjUPE)
 
 
 ## Nitrogen
 - [Cryogenic treatment of drill bits: tested 2X lifetime and microstructure analysis](https://youtu.be/hAxi5YXTjEk)
+
+# 
