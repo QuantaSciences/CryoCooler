@@ -1,3 +1,3 @@
 - [Gifford-McMahon Cryocooler Part I - Building The Helium Compressor](https://youtu.be/4lNIHBHzbn8)
 - [Gifford-McMahon Cryocooler Part 2 - Building The Cold Head And Making Liquid Air](https://youtu.be/9-Bq0iL6F8w)
-- [
+- [Building a Gifford-McMahon Cryocooler With 3d-Printed Parts](https://youtu.be/Jj7Q7OqaW4A)
